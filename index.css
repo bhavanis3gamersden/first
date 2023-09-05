@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    vertical-align: middle;
+}
+
+
+h1{
+    color: red;
+    font-size: 100px;
+}
